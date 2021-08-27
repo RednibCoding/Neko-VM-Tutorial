@@ -9,7 +9,7 @@
 
 This message occurs when Neko is unable to find the libneko library, which is required to run. Make sure that *libneko.so* (or *libneko.dll* on Windows) is in your path.
 
-On Windows, you can check your path with `echo %PATH%`. You can (temporarily) set your path with `set PATH=%PATH%;c:\neko` (if that is where you put Neko). You can set this more permanently following the directions [here](http://support.microsoft.com/default.aspx?scid=kb;en-us;310519&sd=tech).
+On Windows, you can check your path with `echo %PATH%`. You can (temporarily) set your path with `set PATH=%PATH%;c:\neko` (if that is where you put Neko). You can set this more permanently on windows in the _System Properties->Environment Variables_.
 
 On Linux, you can use `echo $LD_LIBRARY_PATH`. Setting your path (if you are using bash) is done with `export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/usr/lib/neko`. Add this to your *~/.bash\_profile* to have it set every time you log in.
 
