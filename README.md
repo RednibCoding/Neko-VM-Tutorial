@@ -1,7 +1,7 @@
 # Neko Tutorial
 This is a tutorial for the [Neko](http://nekovm.org) language.
 
-# Overview
+# Index
 [Overview](md/overview.md)
 
 - [Accessing Commandline Arguments](md/cmdargs.md)
