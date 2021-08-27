@@ -48,7 +48,7 @@ Although Neko is easy to work with, the sparsity of the documentation makes it s
 
 ## Mailing List
 
-The mailing list for Neko (unrelated to this website) is available [here](http://nekovm.org/ml).
+The mailing list for Neko (unrelated to this tutorial) is available [here](http://nekovm.org/ml).
 
 ## More Information
 
