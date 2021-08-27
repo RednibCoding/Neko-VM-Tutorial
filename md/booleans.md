@@ -1,4 +1,4 @@
-[🠔 INDEX](index.md) [OVERVIEW](overview.md)
+[🠔 INDEX](index.md) | [OVERVIEW](overview.md)
 #
 
 # Booleans
@@ -18,4 +18,4 @@ $print(false || "Hello"); // prints "Hello"
 ```
 
 #
-[🠔 INDEX](index.md) [OVERVIEW](overview.md)
+[🠔 INDEX](index.md) | [OVERVIEW](overview.md)

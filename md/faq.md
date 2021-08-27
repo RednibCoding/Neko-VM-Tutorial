@@ -1,4 +1,4 @@
-[🠔 INDEX](index.md) [OVERVIEW](overview.md)
+[🠔 INDEX](index.md) | [OVERVIEW](overview.md)
 #
 
 # Questions
@@ -34,4 +34,4 @@ Tail calls performed in functions which are wrapped using `$varargs` will not be
 Apparently, combining modules via `-link` is quite limited at the moment. There does not seem to be much one can do other than fixing the linking code itself.
 
 #
-[🠔 INDEX](index.md) [OVERVIEW](overview.md)
+[🠔 INDEX](index.md) | [OVERVIEW](overview.md)

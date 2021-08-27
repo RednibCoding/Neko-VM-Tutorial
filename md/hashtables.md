@@ -1,4 +1,4 @@
-[🠔 INDEX](index.md) [OVERVIEW](overview.md)
+[🠔 INDEX](index.md) | [OVERVIEW](overview.md)
 #
 
 # Hashtables
@@ -142,4 +142,4 @@ $print($hkey("hello"));
 ```
 
 #
-[🠔 INDEX](index.md) [OVERVIEW](overview.md)
+[🠔 INDEX](index.md) | [OVERVIEW](overview.md)

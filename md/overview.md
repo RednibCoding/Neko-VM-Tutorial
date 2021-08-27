@@ -1,4 +1,4 @@
-[🠔 INDEX](index.md) [OVERVIEW](overview.md)
+[🠔 INDEX](index.md)
 #
 
 # Overview
@@ -56,4 +56,4 @@ The mailing list for Neko (unrelated to this tutorial) is available [here](http:
 + [Neko Homepage](http://nekovm.org/)
 
 #
-[🠔 INDEX](index.md) [OVERVIEW](overview.md)
+[🠔 INDEX](index.md)

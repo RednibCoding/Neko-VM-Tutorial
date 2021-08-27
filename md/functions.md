@@ -1,4 +1,4 @@
-[🠔 INDEX](index.md) [OVERVIEW](overview.md)
+[🠔 INDEX](index.md) | [OVERVIEW](overview.md)
 #
 
 # Functions
@@ -72,4 +72,4 @@ $print(c(2)); // prints "3"
 ```
 
 #
-[🠔 INDEX](index.md) [OVERVIEW](overview.md)
+[🠔 INDEX](index.md) | [OVERVIEW](overview.md)

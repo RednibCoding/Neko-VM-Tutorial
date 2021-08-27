@@ -1,4 +1,4 @@
-[🠔 INDEX](index.md) [OVERVIEW](overview.md)
+[🠔 INDEX](index.md) | [OVERVIEW](overview.md)
 #
 
 # Tools
@@ -110,4 +110,4 @@ This program compiles NekoML files.
 `nekoml <source_file>`
 
 #
-[🠔 INDEX](index.md) [OVERVIEW](overview.md)
+[🠔 INDEX](index.md) | [OVERVIEW](overview.md)
