@@ -1,4 +1,4 @@
-[🠔 INDEX](../readme.md)
+[🠔 INDEX](index.md)
 #
 
 # Modules
@@ -73,4 +73,4 @@ $print(f(test.__module));  // prints "test"
 ```
 
 #
-[🠔 INDEX](../readme.md)
+[🠔 INDEX](index.md)

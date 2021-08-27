@@ -1,4 +1,4 @@
-[🠔 INDEX](../readme)
+[🠔 INDEX](index.md)
 #
 
 # Basics
@@ -123,4 +123,4 @@ Note that, when using any of the built-in functions for manipulating objects, ar
 Besides numbers and booleans, everything else in Neko is modified and accessed through built-in functions. Arrays, strings, hashtables, and objects all have a set of functions (listed [here](http:// nekovm.org/doc/view/builtins)) for manipulating their values.
 
 #
-[🠔 INDEX](../readme.md)
+[🠔 INDEX](index.md)

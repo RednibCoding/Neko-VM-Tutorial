@@ -1,4 +1,4 @@
-[🠔 Site Index](../readme.md)
+[🠔 INDEX](index.md)
 
 # Overview
 
@@ -51,5 +51,5 @@ The mailing list for Neko (unrelated to this website) is available [here](http:/
 
 ## More Information
 
-+ [Site Index](../readme.md)
++ [Site Index](index.md)
 + [Neko Homepage](http://nekovm.org/)

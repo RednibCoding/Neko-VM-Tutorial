@@ -1,4 +1,4 @@
-[🠔 INDEX](../readme.md)
+[🠔 INDEX](index.md)
 #
 
 # Libraries
@@ -28,4 +28,4 @@ var new_reg = $loader.loadprim("regexp@regexp_new", 1);
 ```
 
 #
-[🠔 INDEX](../readme.md)
+[🠔 INDEX](index.md)

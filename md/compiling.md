@@ -1,4 +1,4 @@
-[🠔 INDEX](../readme.md)
+[🠔 INDEX](index.md)
 #
 
 # Compilation
@@ -14,4 +14,4 @@ to produce *test.n*.
 You may also pass in multiple files to be compiled, but each one will be compiled separately.
 
 #
-[🠔 INDEX](../readme.md)
+[🠔 INDEX](index.md)

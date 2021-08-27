@@ -1,4 +1,4 @@
-[🠔 INDEX](../readme.md)
+[🠔 INDEX](index.md)
 #
 
 # Built-ins
@@ -12,4 +12,4 @@ There are also functions for checking [abstracts](http://nekovm.org/doc/view/bui
 These functions are more efficient and optimized than typical Neko functions would be, so it is typically preferable to use one of these when you can.
 
 #
-[🠔 INDEX](../readme.md)
+[🠔 INDEX](index.md)

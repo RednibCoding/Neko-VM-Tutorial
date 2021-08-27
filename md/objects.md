@@ -1,4 +1,4 @@
-[🠔 INDEX](../readme.md)
+[🠔 INDEX](index.md)
 #
 
 # Objects
@@ -128,4 +128,4 @@ Some operations may be overridden using special field names. These are documente
 All functions related to manipulating objects can be found [here](http://nekovm.org/doc/view/builtins#object).
 
 #
-[🠔 INDEX](../readme.md)
+[🠔 INDEX](index.md)

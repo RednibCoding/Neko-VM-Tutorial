@@ -1,4 +1,4 @@
-[🠔 INDEX](../readme.md)
+[🠔 INDEX](index.md)
 #
 
 # Booleans
@@ -18,4 +18,4 @@ $print(false || "Hello"); // prints "Hello"
 ```
 
 #
-[🠔 INDEX](../readme.md)
+[🠔 INDEX](index.md)

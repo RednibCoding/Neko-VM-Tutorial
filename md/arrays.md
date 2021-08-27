@@ -1,5 +1,5 @@
 
-[🠔 INDEX](../readme.md)
+[🠔 INDEX](index.md)
 #
 
 # Arrays
@@ -86,4 +86,4 @@ $print(c); // prints [1, 2, 3, 4, 5, 6]
 See [here](http://nekovm.org/doc/view/builtins#array) for details of the array functions.
 
 #
-[🠔 INDEX](../readme.md)
+[🠔 INDEX](index.md)
