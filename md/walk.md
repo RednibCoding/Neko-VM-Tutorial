@@ -5,7 +5,7 @@
 
 ## Installation
 
-Follow the instructions [here](install.html).
+Follow the instructions [here](install.md).
 
 Make sure you can run Neko from the commandline by trying the commands `neko` and `nekoc`. 
 
