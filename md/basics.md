@@ -11,13 +11,13 @@ Braces are used to group together multiple expressions, so they are often option
 
 ## Built-in Functions
 
-Neko comes with many built-in functions, all of which begin with a dollar sign (`$`). More information about built-ins can be found [here](builtins.html). These functions are always available and may be used anywhere.
+Neko comes with many built-in functions, all of which begin with a dollar sign (`$`). More information about built-ins can be found [here](builtins.md). These functions are always available and may be used anywhere.
 
 ## Control Flow Constructs
 
 Neko has several flow control constructs: `if`, `while`, `do-while`, `switch`, and `goto` are all available.
 
-[Control flow details](control.html)
+[Control flow details](control.md)
 
 ## Comments
 
@@ -55,19 +55,19 @@ Uninitialized variables will have the value `null`.
 
 Numbers in Neko are either 31-bit integers or 64-bit floats.
 
-[Number details](numbers.html)
+[Number details](numbers.md)
 
 ## Booleans
 
 Neko uses `true` and `false` for boolean values. Also, `null` is considered to be false.
 
-[Boolean details](booleans.html)
+[Boolean details](booleans.md)
 
 ## Strings
 
 Strings are arrays of characters. String literals are contained between double quotes ("). 
 
-[String details](strings.html)
+[String details](strings.md)
 
 ## Functions
 
@@ -116,11 +116,11 @@ Neko objects, by default, do not have any parent classes. You can set the parent
 
 Note that, when using any of the built-in functions for manipulating objects, arguments which are field names must be hashed using the `$hash` method.
 
-[Object details](objects.html)
+[Object details](objects.md)
 
 ## Manipulating Values
 
 Besides numbers and booleans, everything else in Neko is modified and accessed through built-in functions. Arrays, strings, hashtables, and objects all have a set of functions (listed [here](http:// nekovm.org/doc/view/builtins)) for manipulating their values.
 
 #
-[🠔 INDEX](../readme)
+[🠔 INDEX](../readme.md)

@@ -1,4 +1,4 @@
-[🠔 INDEX](../readme)
+[🠔 INDEX](../readme.md)
 #
 
 # Control Flow
@@ -139,4 +139,4 @@ catch e {
 ```
 
 #
-[🠔 INDEX](../readme)
+[🠔 INDEX](../readme.md)

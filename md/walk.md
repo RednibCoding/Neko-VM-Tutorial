@@ -1,4 +1,4 @@
-[🠔 INDEX](../readme)
+[🠔 INDEX](../readme.md)
 #
 
 # Walkthrough
@@ -93,4 +93,4 @@ hello_object.hello("Bob");
 ```
 
 #
-[🠔 INDEX](../readme)
+[🠔 INDEX](../readme.md)

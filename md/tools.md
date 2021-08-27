@@ -1,4 +1,4 @@
-[🠔 INDEX](../readme)
+[🠔 INDEX](../readme.md)
 #
 
 # Tools
@@ -110,4 +110,4 @@ This program compiles NekoML files.
 `nekoml <source_file>`
 
 #
-[🠔 INDEX](../readme)
+[🠔 INDEX](../readme.md)

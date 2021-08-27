@@ -1,4 +1,4 @@
-[🠔 INDEX](../readme)
+[🠔 INDEX](../readme.md)
 #
 
 # Functions
@@ -72,4 +72,4 @@ $print(c(2)); // prints "3"
 ```
 
 #
-[🠔 INDEX](../readme)
+[🠔 INDEX](../readme.md)

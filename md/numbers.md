@@ -1,4 +1,4 @@
-[🠔 INDEX](../readme)
+[🠔 INDEX](../readme.md)
 #
 
 # Numbers
@@ -54,4 +54,4 @@ The following functions can be used with integers and are more efficient than th
 Neko does not deal with integer overflow. Positive overflow will result in the value of -1, negative overflow results in 1. Keep in mind the range for integers given above.
 
 #
-[🠔 INDEX](../readme)
+[🠔 INDEX](../readme.md)

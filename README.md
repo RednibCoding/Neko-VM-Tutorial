@@ -2,7 +2,7 @@
 This is a tutorial for the [Neko](http://nekovm.org) language.
 
 # Overview
-[Overview](md/overview)
+[Overview](md/overview.md)
 
 - [Accessing Commandline Arguments](md/cmdargs.md)
 - [Arrays](md/arrays.md)

@@ -1,4 +1,4 @@
-[🠔 INDEX](../readme)
+[🠔 INDEX](../readme.md)
 #
 
 # FFI
@@ -65,4 +65,4 @@ $print(test(1,2), "\n");
 ```
 
 #
-[🠔 INDEX](../readme)
+[🠔 INDEX](../readme.md)

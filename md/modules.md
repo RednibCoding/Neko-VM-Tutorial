@@ -1,4 +1,4 @@
-[🠔 INDEX](../readme)
+[🠔 INDEX](../readme.md)
 #
 
 # Modules
@@ -29,7 +29,7 @@ $exports.number = i;
 
 Values are "imported" by loading in the `$exports` object from another file and assigning it to a variable. Note that the module which is being loaded will actually be executed as it is loaded. This means the `$exports` object may be generated dynamically.
 
-To load in a module, there is a global object called `$loader` with a `loadmodule` method for loading modules. Keep in mind, however, that modules written in Neko are handled differently than those written in C. For loading C modules, see [here](libs.html).
+To load in a module, there is a global object called `$loader` with a `loadmodule` method for loading modules. Keep in mind, however, that modules written in Neko are handled differently than those written in C. For loading C modules, see [here](libs.md).
 
 `loadmodule` takes two arguments: the name of the module minus the ".n" extension and a loader object. In most cases, the `$loader` object itself would be used for the second argument.
 
@@ -73,4 +73,4 @@ $print(f(test.__module));  // prints "test"
 ```
 
 #
-[🠔 INDEX](../readme)
+[🠔 INDEX](../readme.md)

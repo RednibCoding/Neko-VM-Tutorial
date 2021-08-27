@@ -1,4 +1,4 @@
-[🠔 INDEX](../readme)
+[🠔 INDEX](../readme.md)
 #
 
 # Hashtables
@@ -142,4 +142,4 @@ $print($hkey("hello"));
 ```
 
 #
-[🠔 INDEX](../readme)
+[🠔 INDEX](../readme.md)

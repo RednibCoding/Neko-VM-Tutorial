@@ -1,4 +1,4 @@
-[🠔 INDEX](../readme)
+[🠔 INDEX](../readme.md)
 #
 
 # Console
@@ -22,4 +22,4 @@ The last item shown is the value returned after executing the code.
 To exit, use Ctrl+C.
 
 #
-[🠔 INDEX](../readme)
+[🠔 INDEX](../readme.md)

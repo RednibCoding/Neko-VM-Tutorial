@@ -1,4 +1,4 @@
-[🠔 INDEX](../readme)
+[🠔 INDEX](../readme.md)
 #
 
 # Commandline Args
@@ -21,4 +21,4 @@ results in
 
     [hello,world!]
 
-[🠔 INDEX](../readme)
+[🠔 INDEX](../readme.md)

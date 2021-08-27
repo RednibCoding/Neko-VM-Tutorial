@@ -1,4 +1,4 @@
-[🠔 INDEX](../readme)
+[🠔 INDEX](../readme.md)
 #
 
 # Debugging
@@ -56,4 +56,4 @@ if(true) {
 *Note:* It's the `var` part that does it. So if you can move that outside the `if` block, that will work as well.
 
 #
-[🠔 INDEX](../readme)
+[🠔 INDEX](../readme.md)
