@@ -22,7 +22,6 @@ This is a tutorial for the [Neko](http://nekovm.org) language.
 - [Numbers](md/numbers.md)
 - [Objects](md/objects.md)
 - [Strings](md/strings.md)
-- [Tutorial Index](md/index.md)
 - [Using Libraries](md/libs.md)
 - [Using Modules](md/modules.md)
 - [Walkthrough](md/walk.md)

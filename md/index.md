@@ -19,7 +19,6 @@
 - [Numbers](numbers.md)
 - [Objects](objects.md)
 - [Strings](strings.md)
-- [Tutorial Index](index.md)
 - [Using Libraries](libs.md)
 - [Using Modules](modules.md)
 - [Walkthrough](walk.md)
