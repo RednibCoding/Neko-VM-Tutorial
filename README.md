@@ -3,7 +3,7 @@ This is a tutorial for the [Neko](http://nekovm.org) language.
 This tutorial is structured in a bunch of markdown files.
 
 # Index
-Here you get to the [index](md/index) of this tutorial
+Here you get to the [index](md/index.md) of this tutorial
 
 # Overview
 
