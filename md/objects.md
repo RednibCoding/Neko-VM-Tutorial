@@ -121,7 +121,7 @@ myobj.hello();
 
 ## Operator Overloading
 
-Some operations may be overridden using special field names. These are documented [here](http://nekovm.org/specs#operators_overloading).
+Some operations may be overridden using special field names. These are documented [here](https://nekovm.org/specs/objects/#operators-overloading).
 
 ## More Functions
 
