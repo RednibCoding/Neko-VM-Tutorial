@@ -59,6 +59,3 @@ The mailing list for Neko (unrelated to this website) is available [here](http:/
 + [Site Index](md/index.md)
 + [Neko Homepage](http://nekovm.org/)
 
-#
-[🠔 INDEX](md/index.md)
-
