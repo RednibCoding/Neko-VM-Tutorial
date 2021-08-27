@@ -50,7 +50,7 @@ This will produce a `.n` file as usual. And you can run it as always with:
 ```
 >> neko hello.n
 
-  Hello nxml!
+  Hello, nxml!
 
 ```
 
