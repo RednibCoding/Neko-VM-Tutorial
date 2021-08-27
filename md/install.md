@@ -1,4 +1,4 @@
-[🠔 INDEX](index.md)
+[🠔 INDEX](index.md) [OVERVIEW](overview.md)
 #
 
 # Install
@@ -40,4 +40,4 @@ You can compile Neko to use less memory (and more CPU) by removing the `#` from 
 `CFLAGS += -DLOW_MEM`
 
 #
-[🠔 INDEX](index.md)
+[🠔 INDEX](index.md) [OVERVIEW](overview.md)

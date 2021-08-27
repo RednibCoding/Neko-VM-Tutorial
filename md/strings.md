@@ -1,4 +1,4 @@
-[🠔 INDEX](index.md)
+[🠔 INDEX](index.md) [OVERVIEW](overview.md)
 #
 
 # Strings
@@ -116,4 +116,4 @@ $print(pos); // prints "12"
 Any Neko value can be converted to a string using the `$string` function.
 
 #
-[🠔 INDEX](index.md)
+[🠔 INDEX](index.md) [OVERVIEW](overview.md)
