@@ -17,6 +17,7 @@
 - [Interfacing with C](ffi.md)
 - [Neko Console](console.md)
 - [Numbers](numbers.md)
+- [NXML](nxml.md)
 - [Objects](objects.md)
 - [Strings](strings.md)
 - [Using Libraries](libs.md)

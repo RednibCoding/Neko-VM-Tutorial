@@ -48,6 +48,7 @@ Although Neko is easy to work with, the sparsity of the documentation makes it s
 + [Debugging](md/debug.md) - Common Neko errors
 + [Accessing Commandline Arguments](md/cmdargs.md)
 + [Control Flow](md/control.md)
++ [NXML](md/nxml.md)
 + [FAQ](md/faq.md)
 
 ## Mailing List
